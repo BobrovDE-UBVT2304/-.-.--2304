@@ -1,0 +1,9 @@
+flask
+opencv-python
+torch
+ultralytics
+numpy
+pillow
+reportlab
+openpyxl
+fpdf
